@@ -1,0 +1,9 @@
+.tableContainer {
+  width: 90%;
+  margin: 40px auto;
+}
+
+.tableContainer th, .tableContainer td {
+  text-align: center;
+}
+/*# sourceMappingURL=home.css.map */

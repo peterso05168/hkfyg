@@ -1,0 +1,20 @@
+$primary: #f76d21;
+
+.topnav {
+  background-color: $primary;
+  height: 7vh;
+}
+
+.white {
+  color: white;
+}
+
+.loginGrp {
+  margin-left: auto;
+}
+
+.loginGrp a {
+  font-size: 18px;
+  padding: 10px;
+  text-align: center;
+}

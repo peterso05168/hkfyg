@@ -1,0 +1,91 @@
+.topnav {
+  background-color: #f76d21;
+  height: 4rem;
+}
+
+.white {
+  color: white;
+}
+
+.loginGrp {
+  margin-left: auto;
+}
+
+.loginGrp a {
+  font-size: 18px;
+  padding: 10px;
+  text-align: center;
+}
+
+.loginBox {
+  text-align: center;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: horizontal;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: row;
+          flex-direction: row;
+  min-height: 90vh;
+  padding: 10px;
+}
+
+.loginInfo {
+  margin: auto;
+  min-width: 30%;
+}
+
+.registerInfo {
+  margin: auto;
+  min-width: 80%;
+}
+
+.registerInfo .form-control {
+  width: 30%;
+}
+
+.registerInfo h4 {
+  padding: 40px 0px;
+}
+
+.loginForm {
+  padding: 60px 0px;
+}
+
+.loginTitle {
+  padding: 20px 0px;
+  background: #343a40;
+  color: white;
+}
+
+.form-label {
+  min-width: 100px;
+  text-align: left;
+  margin: 0.5rem;
+}
+
+.form-group {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -ms-flex-wrap: wrap;
+      flex-wrap: wrap;
+}
+
+.form-text {
+  -ms-flex-preferred-size: 100%;
+      flex-basis: 100%;
+  text-align: left;
+  margin-left: 120px;
+}
+
+.icon {
+  width: 30px;
+  position: absolute;
+  z-index: -1;
+  -webkit-transform: translateY(0px);
+          transform: translateY(0px);
+  -webkit-transition-duration: 20s;
+          transition-duration: 20s;
+}
+/*# sourceMappingURL=login.css.map */
